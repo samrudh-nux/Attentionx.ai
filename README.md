@@ -1,5 +1,5 @@
 
-# 🚀 AI Studio X
+# 🚀 Attentionx.ai
 ### Build. Generate. Automate. Scale — All with AI.
 
 > The next generation of AI-native creative and automation platform  
@@ -9,7 +9,7 @@
 
 ## 🌍 Vision
 
-AI Studio X is not just another AI tool.
+Attentionx.ai is not just another AI tool.
 
 It is a **full-stack creative intelligence system** that transforms:
 - Ideas → Content  
@@ -219,9 +219,9 @@ print(result)
 
 ---
 
-## 👥 Team
+## 
 
-- Founder: Your Name  
+  -Creator: Samrudh 
 - Vision: Build the **AI Operating System for the World**
 
 ---
