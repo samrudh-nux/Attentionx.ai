@@ -1,0 +1,13 @@
+{
+  "name": "AttentionX: Neural Viral Engine",
+  "description": "The elite multimodal repurposing engine. Powered by Gemini 1.5 Pro, AttentionX transforms raw footage into high-converting, vertical short-form distribution assets with 7-step viral forensic analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Video Analysis",
+    "Smart Vertical Cropping",
+    "Dynamic Captions"
+  ]
+}
