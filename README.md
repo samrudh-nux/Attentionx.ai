@@ -169,7 +169,7 @@ Storage + Project Manager
 
 ## 🚀 Demo
 
-🔗 Live App: https://ai.studio/apps/503c9c77-9d27-4e5d-852a-d626376b883d
+🔗 Live App: https://aistudio.google.com/apps/503c9c77-9d27-4e5d-852a-d626376b883d?showPreview=true
 
 ---
 
