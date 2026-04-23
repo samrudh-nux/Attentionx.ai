@@ -1,4 +1,3 @@
-
 # 🚀 Attentionx.ai
 ### Build. Generate. Automate. Scale — All with AI.
 
