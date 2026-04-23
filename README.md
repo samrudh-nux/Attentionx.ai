@@ -221,7 +221,7 @@ print(result)
 
 ## 
 
-  -Creator: Samrudh 
+ ## Creator: Samrudh 
 - Vision: Build the **AI Operating System for the World**
 
 ---
