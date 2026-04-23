@@ -196,6 +196,7 @@ result = ai_studio.generate(
 )
 
 print(result)
+
 ```
 
 ---
