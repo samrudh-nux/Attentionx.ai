@@ -6,7 +6,7 @@
 
 ---
 
-## 🌍 Vision
+## Vision
 
 Attentionx.ai is not just another AI tool.
 
@@ -19,31 +19,31 @@ We are building the **"Operating System for Creativity & Automation"** in the AI
 
 ---
 
-## ⚡ Problem
+##  Problem
 
 Today’s AI ecosystem is fragmented:
 
-- ❌ Multiple tools for image, video, text, automation  
-- ❌ Complex workflows & technical barriers  
-- ❌ No unified system for creators, developers, and businesses  
-- ❌ Lack of real-time validation & production readiness  
+-  Multiple tools for image, video, text, automation  
+-  Complex workflows & technical barriers  
+-  No unified system for creators, developers, and businesses  
+- Lack of real-time validation & production readiness  
 
 👉 Result: **Wasted time, poor outputs, and zero scalability**
 
 ---
 
-## 💡 Solution
+##  Solution
 
 AI Studio X unifies everything into a single intelligent platform:
 
-### 🔥 Core Capabilities
+###  Core Capabilities
 
-- 🎨 **Text → Image Generation**
-- 🎬 **Text/Image → Video Generation**
-- 🤖 **AI Agent Creation & Automation**
-- 🧠 **Prompt Intelligence Engine**
-- ⚙️ **Workflow Orchestration System**
-- 📦 **Project-Based Output Management**
+- **Text → Image Generation**
+-   **Text/Image → Video Generation**
+- **AI Agent Creation & Automation**
+- **Prompt Intelligence Engine**
+-  **Workflow Orchestration System**
+-  **Project-Based Output Management**
 
 ---
 
@@ -79,13 +79,13 @@ Create reusable agents that:
 
 Unlike typical AI demos:
 
-- ✅ Structured outputs  
-- ✅ Deployable assets  
-- ✅ Real-world usability  
+-  Structured outputs  
+-  Deployable assets  
+-  Real-world usability  
 
 ---
 
-## 🏗️ Architecture (Production-Level)
+## Architecture (Production-Level)
 
 ```
 Frontend (UI Layer)
@@ -109,7 +109,7 @@ Storage + Project Manager
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer            | Tech |
 |------------------|------|
@@ -122,27 +122,27 @@ Storage + Project Manager
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
-### 👩‍🎨 Creators
+###  Creators
 - Generate viral content instantly  
 - Create videos without editing skills  
 
-### 🚀 Startups
+###  Startups
 - Build marketing creatives in seconds  
 - Automate content pipelines  
 
-### 🧑‍💻 Developers
+###  Developers
 - Build AI agents  
 - Deploy workflows easily  
 
-### 🏢 Businesses
+###  Businesses
 - Scale content production  
 - Reduce operational costs using AI automation  
 
 ---
 
-## 📊 Competitive Edge
+##  Competitive Edge
 
 | Feature                     | AI Studio X | Others |
 |----------------------------|------------|--------|
@@ -156,13 +156,13 @@ Storage + Project Manager
 
 ## 🧩 Features That Beat 90% Competitors
 
-- 🔥 Prompt → Product pipeline
-- 🤖 Custom AI agents marketplace
-- 📁 Project-based organization
-- ⚡ Real-time generation + feedback loop
-- 🧠 Intelligent prompt enhancement
-- 🎬 Multi-scene video generation
-- 🔄 Reusable workflows
+-  Prompt → Product pipeline
+- Custom AI agents marketplace
+- Project-based organization
+- Real-time generation + feedback loop
+-  Intelligent prompt enhancement
+-  Multi-scene video generation
+-  Reusable workflows
 
 ---
 
@@ -194,17 +194,17 @@ print(result)
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
-- 🌐 Marketplace for AI agents  
+- Marketplace for AI agents  
 - 🧠 Self-improving AI pipelines  
-- 🎯 Personalized AI assistants  
-- 📊 Analytics + performance tracking  
-- 🧩 Plugin ecosystem  
+-  prsonalized AI assistants  
+-  Analytics + performance tracking  
+- Plugin ecosystem  
 
 ---
 
-## 💰 Business Model
+##  Business Model
 
 - Freemium (credits-based)
 - SaaS subscriptions
